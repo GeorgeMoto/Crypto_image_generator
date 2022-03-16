@@ -1,4 +1,4 @@
-# nft_donuts_generator
+# Nft_donuts_generator
 
 NFT Generator Автоматическая генерация крипто-артов с "послойным" созданием изображения.
 
